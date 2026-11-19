@@ -1,30 +1,27 @@
-<p align="center">
-</p>
-<p align="center">
-Hello! I'm Cheska Louise Odsinada! 😃
-</p>
- 
-## 🌟 About Me
-I’m someone who can balance both being outgoing and introverted. I enjoy connecting with others when the situation calls for it, but I also value time alone to think deeply and recharge. I naturally approach challenges like a programmer debugging code, breaking problems down, analyzing them, and finding the most effective solution. Being a problem solver and solution provider is at the core of who I am; I don’t just look for quick fixes, I look for sustainable answers.
-
- 
----
- 
-## Programming Languages
-- Java ♨️
- 
----
- 
-## 💻 My Projects  
- 
-### 🧪 MIDTERM 
-
- 
-### 🎓 FINALS  
-
----
- 
-## ⚡ Fun Fact About Me:  
- 
-
-</p>
+♡ Cheska’s Personal Portfolio
+Welcome to my GitHub Portfolio!
+Hi! I’m Cheska, a first-year Bachelor of Science in Information Technology (BSIT) student who is passionate about technology, programming, and learning new things.
+🌷 About Me
+I am currently exploring the world of Information Technology and developing my skills in programming and web development. This portfolio serves as a collection of my activities, projects, and experiences throughout my learning journey.
+💻 My Skills
+HTML
+CSS
+Java
+C++
+Problem Solving
+📁 My Projects
+1. Online Dental Clinic Appointment System
+A proposed system designed to make dental clinic appointments easier and more convenient.
+2. Java Programming Activities
+A collection of programming exercises and activities created while learning Java.
+3. HTML and CSS Activities
+My beginner projects and exercises in web development.
+🌐 My Portfolio Website
+Visit my personal portfolio here:
+Cheska’s Portfolio
+📩 Contact Me
+GitHub: My GitHub Profile
+⸻
+Thank you for visiting my portfolio! ♡
+© 2026 Cheska | Personal Portfolio
+has context menu
