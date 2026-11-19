@@ -1,8 +1,7 @@
 <p align="center">
-<img src="https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Pix/Picture%20ko%20na%20naka%20facemask%20dati.jpg?raw=true%22 height="150"/>
 </p>
 <p align="center">
-Hello! I'm Aaron Jan Aquino of class C204! 😃
+Hello! I'm Cheska Louise Odsinada! 😃
 </p>
  
 ## 🌟 About Me
