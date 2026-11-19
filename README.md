@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Portfolio!
 
-Hi! I'm **Cheska**, a first-year Bachelor of Science in Information Technology (BSIT) student who is passionate about technology, programming, and learning new things.
+Hi! I'm **Cheska Louise Odsinada**, a first-year Bachelor of Science in Information Technology (BSIT) student who is passionate about programming, and learning new things.
 
 ## 🌷 About Me
 
@@ -10,37 +10,7 @@ I am currently exploring the world of Information Technology and developing my s
 
 ## 💻 My Skills
 
-- HTML
-
-- CSS
-
 - Java
-
-- C++
-
-- Problem Solving
-
-## 📁 My Projects
-
-### 1. Online Dental Clinic Appointment System
-
-A proposed system designed to make dental clinic appointments easier and more convenient.
-
-### 2. Java Programming Activities
-
-A collection of programming exercises and activities created while learning Java.
-
-### 3. HTML and CSS Activities
-
-My beginner projects and exercises in web development.
-
-## 🌐 My Portfolio Website
-
-Visit my personal portfolio here:
-
-[Cheska's Portfolio](https://odsinadacheskalouise-ui.github.io/My_Page/)
-
-## 📩 Contact Me
 
 - **GitHub:** [My GitHub Profile](https://github.com/odsinadacheskalouise-ui)
 
