@@ -10,28 +10,28 @@ public class StudentGrade {
 
            String[] subjects = {"Java", "Database", "Networking"};
 
-           for (int s = 0; s < grades.length; s++) {
+           for (int section = 0; section < grades.length; section++) {
 
-               System.out.println("\nSECTION " + (s + 1));
+               System.out.println("\nSECTION " + (section + 1));
                System.out.println("--------------------");
 
-               for (int st = 0; st < grades[s].length; st++) {
+               for (int student = 0; student < grades[section].length; student++) {
 
-                   System.out.println("\nStudent " + (st + 1));
+                   System.out.println("\nStudent " + (student + 1));
 
-                   for (int sub = 0; sub < grades[s][st].length; sub++) {
+                   for (int subs = 0; subs < grades[section][student].length; subs++) {
 
-                       System.out.print(subjects[sub] + ": ");
+                       System.out.print(subjects[subs] + ": ");
 
-                       grades[s][st][sub] = input.nextInt();
+                       grades[section][student][subs] = input.nextInt();
 
                    }
 
                    int studentTotal = 0;
 
-                   for (int sub = 0; sub < grades[s][st].length; sub++) {
+                   for (int subs = 0; subs < grades[section][student].length; subs++) {
 
-                       studentTotal += grades[s][st][sub];
+                       studentTotal += grades[section][student][subs];
 
                    }
 
@@ -43,11 +43,11 @@ public class StudentGrade {
 
                int sectionTotal = 0;
 
-               for (int st = 0; st < grades[s].length; st++) {
+               for (int student = 0; student < grades[section].length; student++) {
 
-                   for (int sub = 0; sub < grades[s][st].length; sub++) {
+                   for (int subs = 0; subs < grades[section][student].length; subs++) {
 
-                       sectionTotal += grades[s][st][sub];
+                       sectionTotal += grades[section][student][subs];
 
                    }
 
