@@ -1,16 +1,19 @@
-# ♡ Cheska's Personal Portfolio
+♡ Cheska's Personal Portfolio
 
 Welcome to my GitHub Portfolio!
 
 Hi! I'm **Cheska Louise Odsinada**, a first-year Bachelor of Science in Information Technology (BSIT) student who is passionate about programming, and learning new things.
 
-## 🌷 About Me
+🌷 About Me
 
 I am currently exploring the world of Information Technology and developing my skills in programming and web development. This portfolio serves as a collection of my activities, projects, and experiences throughout my learning journey.
 
-## 💻 My Skills
+💻 My Midterm Activities
+[View My PDF](midterm/labtask 1.pdf)
+[View My PDF](midterm/labtask_2.pdf)
 
-- Java
+
+
 
 - **GitHub:** [My GitHub Profile](https://github.com/odsinadacheskalouise-ui)
 
