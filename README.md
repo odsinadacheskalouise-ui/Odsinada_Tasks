@@ -9,13 +9,13 @@ Hi! I'm **Cheska Louise Odsinada**, a first-year Bachelor of Science in Informat
 I am currently exploring the world of Information Technology and developing my skills in programming and web development. This portfolio serves as a collection of my activities, projects, and experiences throughout my learning journey.
 
 💻 My Midterm Activities
-[View My PDF](midterm/labtask 1.pdf)
-[View My PDF](midterm/labtask_2.pdf)
+[Lab Task 1](midterm/labtask1.pdf)
+[Lab Task 2](midterm/labtask_2.pdf)
 
 
 
-
-- **GitHub:** [My GitHub Profile](https://github.com/odsinadacheskalouise-ui)
+👾 My GitHub Profile
+- **GitHub:** (https://github.com/odsinadacheskalouise-ui)
 
 ---
 
