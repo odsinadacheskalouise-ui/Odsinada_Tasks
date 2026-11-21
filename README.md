@@ -12,7 +12,7 @@ I am currently exploring the world of Information Technology and developing my s
 
 💗[Lab Task 1](midterm/labtask1.pdf)
 
-💓[Lab Task 2](midterm/labtask_2.pdf)
+💗[Lab Task 2](midterm/labtask_2.pdf)
 
 
 
