@@ -10,9 +10,9 @@ I am currently exploring the world of Information Technology and developing my s
 
 💻 My Midterm Activities
 
-##[Lab Task 1](midterm/labtask1.pdf)
+💗[Lab Task 1](midterm/labtask1.pdf)
 
-##[Lab Task 2](midterm/labtask_2.pdf)
+💓[Lab Task 2](midterm/labtask_2.pdf)
 
 
 
@@ -23,6 +23,4 @@ I am currently exploring the world of Information Technology and developing my s
 
 *Thank you for visiting my portfolio! ♡*
 
-© 2026 Cheska | Personal Portfolio
-My_Page
  
